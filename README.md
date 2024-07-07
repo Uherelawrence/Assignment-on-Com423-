@@ -1,4 +1,6 @@
-# Assignment-on-Com423-uhere Lawrence ifeanyichukwu
+# Assignment-on-Com423
+ASSIGNMENT 2
+UHERE LAWRENCE IFEANYICHUKWU
 HND 2 
 2022/HND/34960/CS
 
